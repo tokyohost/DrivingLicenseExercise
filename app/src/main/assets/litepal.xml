@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="data"/>
+    <version value="5"/>
+    <list>
+        <mapping class="com.example.drivinglicenseexercise.Entity.ResultBean"/>
+    </list>
+</litepal>

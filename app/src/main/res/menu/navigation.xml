@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_menu_start"
+        android:icon="@drawable/start_quests"
+        android:title="答题"
+        />
+    <item
+        android:id="@+id/tab_menu_error"
+        android:icon="@drawable/error_icon"
+        android:title="错题集"
+        />
+
+
+</menu>
